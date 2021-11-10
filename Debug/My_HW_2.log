@@ -1,0 +1,3 @@
+﻿  My_HW_2.cpp
+D:\C++Un4\My_HW2\My_HW_2\Helpers.h(4,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  My_HW_2.vcxproj -> D:\C++Un4\My_HW2\My_HW_2\Debug\My_HW_2.exe
