@@ -1,0 +1,14 @@
+﻿'HW_3.exe' (Win32): Loaded 'D:\C++Un4\My_HW3\HW_3\Debug\HW_3.exe'. Symbols loaded.
+'HW_3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'HW_3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'HW_3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'HW_3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'HW_3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'HW_3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x33b0 has exited with code 0 (0x0).
+'HW_3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'HW_3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'HW_3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x1420 has exited with code 0 (0x0).
+The thread 0x17e4 has exited with code 0 (0x0).
+The program '[8308] HW_3.exe' has exited with code 0 (0x0).
