@@ -12,7 +12,7 @@ private:
 public:
 	Stack()
 	{
-		T* arr = new T[size];
+		arr = new T[size];
 		cout << "enter the size of the array " << endl;
 		cin >> size;
 		cout << "Enter the elements " << endl;
