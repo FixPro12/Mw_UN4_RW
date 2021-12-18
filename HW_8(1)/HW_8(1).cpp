@@ -49,17 +49,15 @@ int main()
    dog dog1;
    cow cow1;
 
-    int N=3;
-
-    animal* arr = new animal[N];
+    animal* arr[3];
    
-    arr[0] = cat1;
-    arr[1] = dog1;
-    arr[2] = cow1;
+    arr[0] = &cat1;
+    arr[1] = &dog1;
+    arr[2] = &cow1;
 
     for (int i = 0; i < 3; i++)
     {
-        cout << arr[i].voice() << endl;
+        cout << arr[i]->voice() << endl;
     }
  
 
